@@ -1,0 +1,67 @@
+p{
+    font-size: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif';
+
+}
+
+h1,h2, h3, h4, h5 {
+    font-family: 'Roboto', 'Open Sans', Geneva, Verdana, sans-serif;
+    color: #2f4f4f;
+}
+
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: 2em; 
+}
+
+a link{
+    color: #4F4F2F
+}
+a visited{
+    color: #4F2F4F
+}
+
+a hover{
+    font-weight: bold;
+}
+
+img#headshot {
+    max-width: 30%;
+    min-height: 275px;
+    float: right;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+div.leftcol {
+    float: left;
+    width: 50%;
+    clear: both;
+}
+
+div.rightcol {
+    float: right;
+    width: 50%;
+    clear: right;
+}
+
+footer{
+    clear: both;
+}
+
+ul#contact-info {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+ul#contact-info li{
+    width: 20%;
+    margin: 2.5%
+    
+}
+
