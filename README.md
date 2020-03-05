@@ -1,2 +1,2 @@
-# LC-s-Blog
-Blog assignment for CM 707
+# LC-Personal-Page
+Personal Page assignment for EM757
